@@ -1,0 +1,4 @@
+oauth_server: http://127.0.0.1:3000
+client_id: "576fca6ac9ea9f35bdfb68b99247b928"
+client_secret: "baeb6b061db3afa7c0833f0bacea873i8"
+sso_path: http://127.0.0.1:3000/users/sign_in
